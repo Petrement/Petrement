@@ -1,9 +1,10 @@
 👋 Hi, I’m @Petrement
 
 👀 I’m really interested in music and cinema
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌱 I’m currently learning to code :)
+
+
+If you want to reach me just send out an email!
 
 <!---
 Petrement/Petrement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
